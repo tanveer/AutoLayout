@@ -12,6 +12,7 @@
 		A1B273381C8FE5FD00813925 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A1B273361C8FE5FD00813925 /* Main.storyboard */; };
 		A1B2733A1C8FE5FD00813925 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A1B273391C8FE5FD00813925 /* Assets.xcassets */; };
 		A1B2733D1C8FE5FD00813925 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A1B2733B1C8FE5FD00813925 /* LaunchScreen.storyboard */; };
+		A1B273451C8FF47800813925 /* Simulator Screen Shot Mar 9, 2016, 12.56.31 AM.png in Resources */ = {isa = PBXBuildFile; fileRef = A1B273441C8FF47800813925 /* Simulator Screen Shot Mar 9, 2016, 12.56.31 AM.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		A1B273391C8FE5FD00813925 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A1B2733C1C8FE5FD00813925 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A1B2733E1C8FE5FD00813925 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A1B273441C8FF47800813925 /* Simulator Screen Shot Mar 9, 2016, 12.56.31 AM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot Mar 9, 2016, 12.56.31 AM.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				A1B273361C8FE5FD00813925 /* Main.storyboard */,
 				A1B273391C8FE5FD00813925 /* Assets.xcassets */,
 				A1B2733B1C8FE5FD00813925 /* LaunchScreen.storyboard */,
+				A1B273441C8FF47800813925 /* Simulator Screen Shot Mar 9, 2016, 12.56.31 AM.png */,
 				A1B2733E1C8FE5FD00813925 /* Info.plist */,
 			);
 			path = AutoLayout;
@@ -123,6 +126,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A1B2733D1C8FE5FD00813925 /* LaunchScreen.storyboard in Resources */,
+				A1B273451C8FF47800813925 /* Simulator Screen Shot Mar 9, 2016, 12.56.31 AM.png in Resources */,
 				A1B2733A1C8FE5FD00813925 /* Assets.xcassets in Resources */,
 				A1B273381C8FE5FD00813925 /* Main.storyboard in Resources */,
 			);
